@@ -1,5 +1,6 @@
 package com.seleniumsimplified.webdriver.basics.interrogate;
 
+
 import com.seleniumsimplified.webdriver.manager.Driver;
 import com.seleniumsimplified.webdriver.manager.TestEnvironment;
 import org.junit.Test;
